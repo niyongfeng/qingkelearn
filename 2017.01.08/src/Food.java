@@ -2,6 +2,8 @@
 public abstract class Food {
 	
 	private final boolean EAT = true;
+
+	private final boolean KK = true;
 	protected double price = 5.0;
 	protected double amount = 2.0;
 	
