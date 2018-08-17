@@ -3,4 +3,6 @@
  */
 public class AA {
     private String a;
+    private String c;
+    private String d;
 }
